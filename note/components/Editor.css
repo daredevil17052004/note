@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+}
+
+.input-text{
+    height: 600px;
+    width: 700px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 20px rgb(111, 109, 109);
+
+}
+
+.output-text{
+    height: 600px;
+    width: 700px;
+    border: 1px solid black;
+    margin-left: 50px;
+    background-color: grey;
+    border-radius: 10px;
+    box-shadow: 4px 4px 20px rgb(111, 109, 109);
+}
+
+body{
+    background-color:aliceblue;
+}
